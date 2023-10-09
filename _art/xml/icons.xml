@@ -1,0 +1,24 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="menu">
+    <menuIcons name="menuicons">
+		<iconBrightnessctl>./../_art/icons/brightness.png</iconBrightnessctl>
+		<iconKodi>./../_art/icons/Kodi.png</iconKodi>
+		<iconSystem>./../_art/icons/settings.png</iconSystem>
+		<iconUpdates>./../_art/icons/update.png</iconUpdates>
+		<iconGames>./../_art/icons/games.png</iconGames>
+		<iconControllers>./../_art/icons/controller.png</iconControllers>
+		<iconUI>./../_art/icons/ui.png</iconUI>
+		<iconSound>./../_art/icons/sound.png</iconSound>
+		<iconNetwork>./../_art/icons/wifi.png</iconNetwork>
+		<iconScraper>./../_art/icons/scraper.png</iconScraper>
+		<iconAdvanced>./../_art/icons/advanced.png</iconAdvanced>
+		<iconQuit>./../_art/icons/quit.png</iconQuit>
+		<iconRestart>./../_art/icons/restart.png</iconRestart>
+		<iconShutdown>./../_art/icons/shutdown.png</iconShutdown>
+		<iconFastShutdown>./../_art/icons/fastshutdown.png</iconFastShutdown>
+		<iconRetroachievements>./../_art/icons/contest.png</iconRetroachievements>
+		<iconManual>./../_art/icons/nanual.png</iconManual>
+	</menuIcons>
+	</view>
+</theme>

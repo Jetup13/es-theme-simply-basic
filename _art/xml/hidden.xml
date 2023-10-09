@@ -1,0 +1,52 @@
+<theme>
+<formatVersion>7</formatVersion>
+	<view name="basic,video,detailed">
+	<text name="nameLabel" extra="true">
+		<visible>false</visible>
+	</text>
+	<text name="logoText">
+		<visible>false</visible>
+	</text>
+	 
+	<text name="md_lbl_rating">
+		<visible>false</visible>
+	</text>  
+	 
+	<rating name="md_rating">
+		<visible>false</visible>
+	</rating>
+	
+	<text name="md_lbl_players">
+		<visible>false</visible>
+	</text>
+     
+	<text name="md_players">
+		<visible>false</visible>
+	</text>
+	
+	<image name="md_marquee">
+		<visible>false</visible>
+	</image>
+	</view>
+	
+	<view name="video,detailed">
+	<text name="md_lbl_releasedate, md_lbl_developer, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount, md_developer, md_genre, md_players, md_playcount, md_releasedate,md_lastplayed,md_publisher,md_lbl_publisher" extra="true">
+		<visible>false</visible>
+	</text>
+	</view>
+	
+	<view name="system">
+	<text name="sys_line1" extra="true">
+		<visible>false</visible>
+	</text>    
+	<text name="sys_line2" extra="true">
+		<visible>false</visible>
+	</text>    
+    <text name="shortdescription" extra="true">
+		<visible>false</visible>
+	</text>
+	<text name="longdescription" extra="true">
+		<visible>false</visible>   
+	</text>
+	</view>
+</theme>

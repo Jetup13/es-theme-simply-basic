@@ -1,0 +1,19 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	
+	<variables>
+		<mainColor>FFFF00</mainColor>
+	</variables>
+
+	<view name="basic, detailed, video">
+	<textlist name="gamelist">
+        <selectedColor>${mainColor}</selectedColor>
+    </textlist>
+	</view>
+	
+    <view name="menu">
+	<menuText name="menutext, menutitle">
+        <separatorColor>${mainColor}</separatorColor>
+	</menuText>
+    </view>
+</theme>
